@@ -5,13 +5,17 @@
 - 🤔 Sempre explorando novas tecnologias e desenvolvendo meus aprendizados.
 - 🎓 Cursando Engenharia de Software.
 - 🌱 Atualmente estou aprendendo mais sobre Java, seus frameworks e suas aplicações.
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marchiori-eduardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+ 
+  <div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchiori-eduardo&layout=compact&hide_border=true&title_color=0865d1&text_color=0865d1&bg_color=0d1118"/>
 </div>
 
-###
+![Grafico de atividade do Github de Eduardo](https://github-readme-activity-graph.vercel.app/graph?username=marchiori-eduardo&bg_color=0d1118&color=f5f5f7&line=0665d1&point=f5f5f7&area=true)
 
-<h2 align="left">🚀 Minhas Skills</h2>
+
+
+<h2 align="left">🚀 Conhecimentos</h2>
 
 ###
 
